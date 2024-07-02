@@ -1,0 +1,1 @@
+# SegVG-Transferring-Object-Bounding-Box-to-Segmentation-for-Visual-Grounding
