@@ -4,8 +4,8 @@
 This repository is an official PyTorch implementation of the ECCV 2024 paper **SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding**
 
 ## **Introduction**
-We present **SegVG**, a novel method transfers the box-level annotation as **Seg**mentation signals to provide an additional pixel-level supervision for **V**isual **G**rounding.
-To mitigate domain discrepancy, we introduce the Triple Alignment module, where the query, text, and vision tokens are triangularly updated to share the same space.
+We present **SegVG**, which transfers the box-level annotation as **Seg**mentation signals to provide an additional pixel-level supervision for **V**isual **G**rounding.
+Additionally, the query, text, and vision tokens are triangularly updated to mitigate domain discrepancy by our proposed Triple Alignment module.
 For more details, please refer to our paper. Code is coming soon!
 
 ## **Model Zoo**
