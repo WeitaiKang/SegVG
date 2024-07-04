@@ -1,7 +1,7 @@
 **SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding**
 ========
 
-This repository is an official PyTorch implementation of the ECCV 2024 paper **SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding**
+This repository is an official PyTorch implementation of the ECCV 2024 paper [SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding](https://arxiv.org/abs/2407.03200)
 
 ## **Introduction**
 We present **SegVG**, which transfers the box-level annotation as **Seg**mentation signals to provide an additional pixel-level supervision for **V**isual **G**rounding.
