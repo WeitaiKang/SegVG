@@ -26,17 +26,17 @@ Please cite our paper if the paper or codebase is helpful to you.
 
 3.  Prepare for data. 
 
-    Please download the coco train2014 ['images'](http://images.cocodataset.org/zips/train2014.zip).
+    Please download the coco train2014 [`images`](http://images.cocodataset.org/zips/train2014.zip).
     
-     Please download the referring expression annotations from the 'annotation' directory of ['SegVG'](https://drive.google.com/drive/folders/1iF5yJsEfyaSGnaS3rj_rkrECm4ebSuD8?usp=sharing). 
+     Please download the referring expression annotations from the 'annotation' directory of [`SegVG`](https://drive.google.com/drive/folders/1iF5yJsEfyaSGnaS3rj_rkrECm4ebSuD8?usp=sharing). 
 
-    Please download the ['ResNet101'](https://drive.google.com/drive/folders/17CVnc5XOyqqDlg1veXRE9hY9r123Nvqx) ckpts of vision backbone from TransVG.
+    Please download the [`ResNet101`](https://drive.google.com/drive/folders/17CVnc5XOyqqDlg1veXRE9hY9r123Nvqx) ckpts of vision backbone from TransVG.
 
     You can place them wherever you want. Just remember to set the paths right in your train.sh and test.sh.
 
 ### Model Zoo
 
-Our model ckpts are available in the 'ckpt' directory of ['SegVG'](https://drive.google.com/drive/folders/1iF5yJsEfyaSGnaS3rj_rkrECm4ebSuD8?usp=sharing).
+Our model ckpts are available in the 'ckpt' directory of [`SegVG`](https://drive.google.com/drive/folders/1iF5yJsEfyaSGnaS3rj_rkrECm4ebSuD8?usp=sharing).
 
 - **RefCOCO**
 
@@ -77,4 +77,4 @@ Our model ckpts are available in the 'ckpt' directory of ['SegVG'](https://drive
     Please take a look of 'test.sh' to set the parameters.
 
 ### Acknowledge
-This codebase is partially based on [TransVG](https://github.com/djiajunustc/TransVG?tab=readme-ov-file).
+This codebase is partially based on [`TransVG`](https://github.com/djiajunustc/TransVG?tab=readme-ov-file).
