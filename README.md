@@ -68,13 +68,13 @@ Our model ckpts are available in the 'ckpt' directory of [`SegVG`](https://drive
     ```
     bash train.sh
     ```
-    Please take a look of 'train.sh' to set the parameters.
+    Please take a look of [`train.sh`](https://github.com/WeitaiKang/SegVG/blob/0ad3c7e1bf47871f88a74bdebfd635f8e461f744/train.sh) to set the parameters.
 
 2.  Evaluation
     ```
     bash test.sh
     ```
-    Please take a look of 'test.sh' to set the parameters.
+    Please take a look of [`test.sh`](https://github.com/WeitaiKang/SegVG/blob/0ad3c7e1bf47871f88a74bdebfd635f8e461f744/test.sh) to set the parameters.
 
 ### Acknowledge
 This codebase is partially based on [`TransVG`](https://github.com/djiajunustc/TransVG?tab=readme-ov-file).
