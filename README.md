@@ -28,7 +28,7 @@ Please cite our paper if the paper or codebase is helpful to you.
 
     Please download the coco train2014 [`images`](http://images.cocodataset.org/zips/train2014.zip).
     
-     Please download the referring expression annotations from the 'annotation' directory of [`SegVG`](https://drive.google.com/drive/folders/1iF5yJsEfyaSGnaS3rj_rkrECm4ebSuD8?usp=sharing). 
+     Please download the referring expression annotations from the 'annotation' directory of [`SegVG`](https://drive.google.com/drive/u/0/folders/1oKrM8NefV6F18Lkli092vstdTtPPwlwj). 
 
     Please download the [`ResNet101`](https://drive.google.com/drive/folders/17CVnc5XOyqqDlg1veXRE9hY9r123Nvqx) ckpts of vision backbone from TransVG.
 
@@ -36,7 +36,7 @@ Please cite our paper if the paper or codebase is helpful to you.
 
 ### Model Zoo
 
-Our model ckpts are available in the 'ckpt' directory of [`SegVG`](https://drive.google.com/drive/folders/1iF5yJsEfyaSGnaS3rj_rkrECm4ebSuD8?usp=sharing).
+Our model ckpts are available in the 'ckpt' directory of [`SegVG`](https://drive.google.com/drive/u/0/folders/1oKrM8NefV6F18Lkli092vstdTtPPwlwj).
 
 - **RefCOCO**
 
