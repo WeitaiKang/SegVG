@@ -30,7 +30,7 @@ Please cite our paper if the paper or codebase is helpful to you.
     
      Please download the referring expression annotations from the 'annotation' directory of [`SegVG`](https://drive.google.com/drive/u/0/folders/1oKrM8NefV6F18Lkli092vstdTtPPwlwj). 
 
-    Please download the [`ResNet101`](https://drive.google.com/drive/folders/17CVnc5XOyqqDlg1veXRE9hY9r123Nvqx) ckpts of vision backbone from TransVG.
+    Please download the [`ResNet101`](https://drive.google.com/drive/folders/1SOHPCCR6yElQmVp96LGJhfTP46RxVwzF) ckpts of vision backbone from TransVG.
 
     You can place them wherever you want. Just remember to set the paths right in your train.sh and test.sh.
 
